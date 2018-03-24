@@ -1,0 +1,5 @@
+﻿  course.cpp
+c:\users\dmitry\documents\visual studio 2017\projects\course\course\course.cpp(110): warning C4553: ==: оператор не имеет результата; возможно, имелся в виду "="
+c:\users\dmitry\documents\visual studio 2017\projects\course\course\course.cpp(261): warning C4018: <: несоответствие типов со знаком и без знака
+  course.vcxproj -> C:\Users\Dmitry\documents\visual studio 2017\Projects\course\Debug\course.exe
+  course.vcxproj -> C:\Users\Dmitry\documents\visual studio 2017\Projects\course\Debug\course.pdb (Partial PDB)
